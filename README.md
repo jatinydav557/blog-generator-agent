@@ -1,9 +1,6 @@
-Understood\! Placing the "Watch a Demo" section prominently at the beginning of the README. Here's the updated version:
+▶️ YouTube Demo: [Watch Here](https://www.youtube.com/watch?v=YsCMANRUcGI&list=PLe-YIIlt-fbNajMvdZoBUdjZNbmLOMJSU&index=1&ab_channel=Jatin)  
 
-````markdown
 # ✍️ LangGraph Blog Generator API
-
-**▶️ Watch a Demo on YouTube:** [Link to your YouTube Demo Video Here]
 
 The **LangGraph Blog Generator API** is a powerful, intelligent backend service designed to automatically generate high-quality, SEO-friendly blog posts on any given topic, with optional multi-language translation. Built on **LangGraph**, **LangChain**, and powered by **GROQ's Llama3**, this API streamlines content creation through an advanced, graph-based agentic workflow.
 
@@ -117,7 +114,7 @@ python-dotenv
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/yourusername/blog-generator-agent.git](https://github.com/yourusername/blog-generator-agent.git)
+    git clone [https://github.com/yourusername/blog-generator-agent.git](https://github.com/jatinydav557/blog-generator-agent.git)
     cd blog-generator-agent
     ```
 
@@ -232,7 +229,6 @@ It's a strong showcase of how agentic AI principles can be applied to create eff
 
 ## 🤝 Credits
 
-  * [suspicious link removed]
   * [LangChain](https://www.langchain.com/)
   * [GROQ](https://groq.com/)
   * [FastAPI](https://fastapi.tiangolo.com/)
@@ -242,11 +238,8 @@ It's a strong showcase of how agentic AI principles can be applied to create eff
 
 ## 🙋‍♂️ Let's Connect
 
-  * **💼 LinkedIn:** [Your LinkedIn Profile URL]
-  * **📦 GitHub:** [Your GitHub Profile URL]
-  * **📬 Email:** your@email.com
-
-Made with ❤️ by an AI enthusiast who transforms ML, NLP, DL, GenAI, and Agentic AI concepts into practical, impactful solutions.
-
-```
-```
+* **💼 LinkedIn:** [www.linkedin.com/in/jatin557](https://www.linkedin.com/in/jatin557)
+* **📦 GitHub:** [https://github.com/jatinydav557](https://github.com/jatinydav557)
+* **📬 Email:** [jatinydav557@gmail.com](mailto:jatinydav557@gmail.com)
+* **📱 Contact:** [`+91-7340386035`](tel:+917340386035)
+* **🎥 YouTube:** [Checkout my other working projects](https://www.youtube.com/@jatinML/playlists)
